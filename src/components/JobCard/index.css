@@ -1,0 +1,107 @@
+.job-item {
+  background-color: #202020;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 700px;
+  align-self: right;
+}
+.link {
+  text-decoration: none;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+}
+.star {
+  color: gold;
+  margin-top: 0px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 20px;
+  font-family: 'roboto';
+}
+
+.rating {
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+.loco-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.loco-type {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+}
+
+.lo-cation {
+  color: #ffffff;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.employ-type {
+  color: #ffffff;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.salary {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.hr-tag {
+  margin-left: auto;
+  margin-right: auto;
+  border-width: thin;
+  width: 97%;
+  color: gray;
+}
+
+.des-head {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'roboto';
+  margin-left: 20px;
+}
+
+.description {
+  color: #cbd5e1;
+  font-family: 'roboto';
+  font-size: 13px;
+  font-weight: 15px;
+  margin-left: 20px;
+}
+
+.location {
+  color: #ffffff;
+  margin-top: 12px;
+  margin-left: 12px;
+}
+.star-rating {
+  display: flex;
+  align-items: baseline;
+  margin-left: 20px;
+}
